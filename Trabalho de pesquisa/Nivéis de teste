@@ -1,0 +1,11 @@
+Níveis de testes.
+
+Alguns tipos de testes são aplicados em diferentes destinos, em diferentes estágios ou níveis de esforço de trabalho. 
+Esses níveis são destinados por funções que são melhor habilitadas para projetar e conduzir os testes e em que as técnicas são mais apropriadas para os testes em cada nível. É importante assegurar que o equilíbrio.
+O teste do desenvolvedor indica os aspectos do design de teste e a implementação mais apropriada para a equipe de desenvolvedores. Isso contrasta com o Teste Independente. Na maioria dos casos, a execução do teste inicialmente ocorre com o grupo de teste do desenvolvedor que projetou e implementou o teste, mas é uma boa prática para os desenvolvedores para criar seus testes de modo que fiquem disponíveis para execução de grupos de teste independentes.
+
+Teste independente
+ O teste independente indica que o design de teste e a implementação mais apropriadamente executados por alguém que é independente da equipe de desenvolvedores.
+
+Teste de aceitação 
+O teste de aceitação do Usuário é a ação de teste final realizada antes da implementação do software. A meta do teste de aceitação é verificar se o software está pronto e se pode ser utilizado pelos usuários para desempenhar essas funções e tarefas para as quais o software foi construído
