@@ -1,0 +1,9 @@
+O que é teste de caixa branca?
+
+O teste de caixa branca possui esse nome porque o testador tem acesso à estrutura
+interna da aplicação. Logo, seu foco é garantir que os componentes do software estejam concisos.
+
+
+Já o teste de caixa preta baseia-se nos requisitos básicos do software, sendo o foco nos requisitos da aplicação, ou seja, nas ações que deve desempenhar.
+ Os níveis de teste caixa preta são integração, sistema, aceitação, alfa e beta. Eles possuem métodos e classes.
+
