@@ -1,0 +1,23 @@
+Testes funcionais > o teste funcional é uma série de subtestes, com o objetivo de atestar a aplicação que é capaz de desempenhar as funções que se propõe a fazer.
+
+Teste de regressão > O teste de regressão é uma técnica do teste de software que consiste na aplicação de versões mais recentes do software, para garantir que não surgiram novos defeitos em componentes já analisados.
+
+Aceitação >  permitem que os testes ocorram de uma forma mais eficiente e rápida, possibilitando encontrar as não conformidades do software em relação aos requisitos do sistema.
+
+smoketest > Na programação de computadores e no teste de software, o teste de fumaça é um teste preliminar para revelar falhas simples, graves o suficiente para, por exemplo, rejeitar uma versão em potencial do software.
+
+Testes exploratórios são extremamente úteis para encontrar bugs rapidamente, e quando o projeto não tem uma documentação bem definida ou a mesma encontra-se desatualizada.
+
+
+
+Teste de Carga é usado para simular condições normais.
+Quantidade de dados utilizada é a mesma estimada para o dia de trabalho.
+O objetivo não é quebrar o sistema.
+
+
+Teste de Estresse
+Testa o comportamento do sistema simulando condições extremas.
+O teste só encerra após ter gerado uma falha no sistema.
+Objetivo é quebrar o sistema, gerar falhas.
+
+Testes automatizados são mais confiáveis, pois são executados por ferramentas ou scripts; São executados com mais velocidade que o teste manual;
