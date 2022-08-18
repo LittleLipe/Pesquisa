@@ -1,0 +1,27 @@
+///// Step by step ///// 
+
+Precisamos de entendimento dos tipos de teste precisamos conhecer os tipos de testes 
+aplicicar de acordo com o contexto, nível do teste e ferramentas de cada tipo de teste
+Um dos testes: unitário > Valida um componente, menor unidade de código e é independente.
+Teste de integração > valida unidades trabalhando em conjunto, valida integração entre os componentes.
+
+///// Pairwise /////  
+
+O teste de todos os pares ou de pares é um método combinatório de teste de software que, para cada par de parâmetros de entrada em um sistema, testa todas as combinações discretas possíveis desses parâmetros.
+
+///// Diagrama de Causa ///// 
+
+O Diagrama de Ishikawa, também conhecido como Diagrama de Causa e Efeito ou Diagrama Espinha de peixe, é um gráfico cuja finalidade é organizar o raciocínio em discussões de um problema prioritário, em processos diversos, especialmente na produção industrial.
+
+///// Teste de classe Equivalência ///// 
+
+O Teste de Classe de Equivalência, também conhecido como Particionamento de Classe de Equivalência (ECP) e Particionamento de Equivalência , é uma técnica de teste de software usada para agrupar e particionar os dados de entrada do teste, que são então usados ​​para fins de testar o produto de software em várias classes diferentes. 
+Ou seja, é quando você tem uma série de itens de teste (por exemplo, valores) que deseja testar, mas por causa do custo (tempo / dinheiro), você não tem tempo para testá-los todos.
+Portanto, você agrupa o item de teste em uma classe em que todos os itens em cada classe devem se comportar exatamente da mesma forma. 
+A teoria é que você só precisa testar um de cada item para ter certeza de que o sistema funciona.
+
+
+
+///// valores limites /////
+Os valores limites têm por objetivo auxiliar os gestores de compras na avaliação do custo da contratação desses serviços, sendo essencial instrumento para análise da regularidade dos preços ofertados,
+bem como dos processos de repactuação e de prorrogação contratual.
