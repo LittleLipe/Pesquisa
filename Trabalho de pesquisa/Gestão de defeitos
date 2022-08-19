@@ -1,0 +1,13 @@
+  CICLO DE VIDA
+  
+  O ciclo de vida é a estrutura contendo processos, atividades e tarefas envolvidas no desenvolvimento, operação e manutenção de um produto de software,
+abrangendo a vida do sistema, desde a definição de seus requisitos até o término de seu uso.
+  O modelo de ciclo de vida é a primeira escolha a ser feita no processo de software. A partir desta escolha define-se desde a maneira mais adequada de 
+obter as necessidades do cliente, até quando e como o cliente receberá sua primeira versão operacional do sistema.
+
+
+
+REGRA 10 DE MYERS
+  
+A Regra 10 de Myers mostra que não existe software sem erro, assim não se deve investir recursos e tempo para testar sistemas. 
+A Regra 10 de Myers mostra que os defeitos tem custo de correção constante independente do momento em que são descobertos.
